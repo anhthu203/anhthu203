@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anhthu203
-- 👀 I’m interested in web development
+- 👀 I’m interested in web and app development
 - 🌱 I’m currently learning NodeJS, ReactJS and Angular
 
 <!---
